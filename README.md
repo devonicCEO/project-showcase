@@ -1,4 +1,4 @@
-<div align="center" width=100%>
+<div align="center" display="flex" flex-direction="column" width=100%>
     <a href="#"> 
         <img src="assets/btns/Frontend Procects.png" width=50%>
     </a>
