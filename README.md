@@ -20,6 +20,10 @@
     </a> 
     <img src="assets/frontend projects cards (1).png" width=40% align="top">
 </div>
+    <p >-----------------------------------------------------------------</p>
+<br>
+<br>
+<br>
 
 <div align="start" width=100%>
 
