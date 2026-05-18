@@ -3,6 +3,7 @@
         <img src="assets/btns/Frontend Procects.png" width=50% >
     </a>
     <img src="assets/frontend projects cards (1).png" width=40% align="top">
+    <p>----------------------------------</p>
    <br> 
    <br>
 
