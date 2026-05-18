@@ -1,7 +1,8 @@
 <div align="start" width=100%>
-    <a href="#"> 
+    <a href="#" align="center"> 
         <img src="assets/btns/Frontend Procects.png" width=50%>
-    </a> <br> <br>
+        Frontend Porjects >
+</a> <br> <br> <br> 
     <img src="assets/frontend projects cards (1).png" >
 
    <br> 
