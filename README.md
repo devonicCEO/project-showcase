@@ -27,7 +27,7 @@
 
 <div align="start" width=100%>
 
-<div style="display:flex, gap:100px">
+<div style="display:flex">
 <a href="#">Frontend Projects ></a>
 <p>Programing Languages</p>
 <p>HTML, CSS</p>
