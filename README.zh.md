@@ -33,27 +33,23 @@
 前端界面、落地页和 UI 项目。
 
 - [Frontend Projects Repo](https://github.com/YOUR-USERNAME/frontend-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
 
 ### Mobile App Projects
 
-移动应用界面、引导流程和产品体验项目。
+使用 Flutter/Dart 制作的移动应用。
 
 - [Mobile App Projects Repo](https://github.com/YOUR-USERNAME/mobile-app-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme) -->
 
 ### iOS Apps
 
-基于 Swift 的 iOS 应用和示例项目。
+使用 Flutter/Dart 制作的 iOS 应用。
 
 - [iOS Apps Repo](https://github.com/YOUR-USERNAME/ios-apps)
-- [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme) -->
 
 ### 其他仓库
 
 - [Design Systems Repo](https://github.com/YOUR-USERNAME/design-systems)
-- [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab)
-
-## 说明
-
-将 `YOUR-USERNAME` 替换为你的真实 GitHub 用户名。
+<!-- - [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab) -->

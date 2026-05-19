@@ -33,27 +33,23 @@
 واجهات أمامية، صفحات هبوط، وأعمال UI.
 
 - [Frontend Projects Repo](https://github.com/YOUR-USERNAME/frontend-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
 
 ### Mobile App Projects
 
-شاشات تطبيقات الجوال، مسارات onboarding، وتجارب المنتج.
+تطبيقات جوال مصنوعة باستخدام Flutter/Dart.
 
 - [Mobile App Projects Repo](https://github.com/YOUR-USERNAME/mobile-app-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme) -->
 
 ### iOS Apps
 
-تطبيقات Swift ومشاريع iOS.
+تطبيقات iOS مصنوعة باستخدام Flutter/Dart.
 
 - [iOS Apps Repo](https://github.com/YOUR-USERNAME/ios-apps)
-- [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme) -->
 
 ### مستودعات أخرى
 
 - [Design Systems Repo](https://github.com/YOUR-USERNAME/design-systems)
-- [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab)
-
-## ملاحظة
-
-استبدل `YOUR-USERNAME` باسم المستخدم الحقيقي في GitHub.
+<!-- - [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab) -->

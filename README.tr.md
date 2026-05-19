@@ -33,27 +33,23 @@ Bu sayfa Türkçe sürümdür. Ana repolara yönlendirme için kullanılır.
 Frontend arayüzleri, landing page örnekleri ve UI odaklı çalışmalar.
 
 - [Frontend Projects Repo](https://github.com/YOUR-USERNAME/frontend-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
 
 ### Mobile App Projects
 
-Mobil uygulama ekranları, onboarding akışları ve ürün deneyimi odaklı işler.
+Flutter/Dart ile yapılmış mobil uygulamalar.
 
 - [Mobile App Projects Repo](https://github.com/YOUR-USERNAME/mobile-app-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme) -->
 
 ### iOS Apps
 
-Swift tabanlı uygulamalar ve iOS odaklı proje örnekleri.
+Flutter/Dart ile hazırlanmış iOS uygulamaları.
 
 - [iOS Apps Repo](https://github.com/YOUR-USERNAME/ios-apps)
-- [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme) -->
 
 ### Diğer Repolar
 
 - [Design Systems Repo](https://github.com/YOUR-USERNAME/design-systems)
-- [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab)
-
-## Not
-
-Bu dosyadaki bağlantıları gerçek repo adreslerinle değiştir.
+<!-- - [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab) -->

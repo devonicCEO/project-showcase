@@ -33,27 +33,23 @@ This is the English version. Use it to navigate to the main repositories.
 Frontend interfaces, landing pages, and UI-focused work.
 
 - [Frontend Projects Repo](https://github.com/YOUR-USERNAME/frontend-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
 
 ### Mobile App Projects
 
-Mobile app screens, onboarding flows, and product-experience work.
+Mobile apps built with Flutter/Dart.
 
 - [Mobile App Projects Repo](https://github.com/YOUR-USERNAME/mobile-app-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme) -->
 
 ### iOS Apps
 
-Swift-based apps and iOS-focused project examples.
+Flutter/Dart-based iOS apps.
 
 - [iOS Apps Repo](https://github.com/YOUR-USERNAME/ios-apps)
-- [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme) -->
 
 ### Other Repositories
 
 - [Design Systems Repo](https://github.com/YOUR-USERNAME/design-systems)
-- [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab)
-
-## Note
-
-Replace `YOUR-USERNAME` with your real GitHub username.
+<!-- - [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab) -->

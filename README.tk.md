@@ -33,27 +33,24 @@ Bu sahypa türkmençe görnüşidir. Esasy repository-lere ugrukdyrmak üçin ul
 Frontend interfeýsler, landing page mysallary we UI işleri.
 
 - [Frontend Projects Repo](https://github.com/YOUR-USERNAME/frontend-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
 
 ### Mobile App Projects
 
-Mobil programma ekranlary, onboarding akymlary we önüm tejribesi işleri.
+Flutter/Dart bilen taýýarlanan mobil programmalar.
 
 - [Mobile App Projects Repo](https://github.com/YOUR-USERNAME/mobile-app-projects)
-- [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme) -->
 
 ### iOS Apps
 
-Swift esasly programmalar we iOS taslamalary.
+Flutter/Dart bilen taýýarlanan iOS programmalar.
 
 - [iOS Apps Repo](https://github.com/YOUR-USERNAME/ios-apps)
-- [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme)
+<!-- - [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme) -->
 
 ### Beýleki repolar
 
 - [Design Systems Repo](https://github.com/YOUR-USERNAME/design-systems)
-- [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab)
+<!-- - [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab) -->
 
-## Bellik
-
-`YOUR-USERNAME` ýerine hakyky GitHub ulanyjy adyňy goý.
