@@ -5,24 +5,24 @@ Bu sahypa türkmençe görnüşidir. Esasy repository-lere ugrukdyrmak üçin ul
 ## Wizuall gurluş
 
 <div align="start" width=100%>
-	<a href="#frontend-projects">
+	<a href="https://github.com/devonicCEO/frontend-projects/">
 		<img src="assets/btns/Frontend Procects.png" width=50%>
 	</a>
 	<img src="assets/frontend projects cards (1).png" width=40% align="top">
 	<p>-----------------------------------------------------------------</p>
 	<br>
-
+<!-- 
 <a href="#mobile-app-projects">
     	<img src="assets/btns/Mobile App Projects.png" width=50% align="top">
     </a>
     <img src="assets/Mobile Apps Projects cards.png" width=40% align="top">
     <p>-----------------------------------------------------------------</p>
-    <br>
-
+    <br> -->
+<!-- 
 <a href="#ios-apps">
     	<img src="assets/btns/Frontend Procects.png" width=50% align="top">
     </a>
-    <img src="assets/frontend projects cards (1).png" width=40% align="top">
+    <img src="assets/frontend projects cards (1).png" width=40% align="top"> -->
 
 </div>
 
@@ -32,25 +32,24 @@ Bu sahypa türkmençe görnüşidir. Esasy repository-lere ugrukdyrmak üçin ul
 
 Frontend interfeýsler, landing page mysallary we UI işleri.
 
-- [Frontend Projects Repo](https://github.com/YOUR-USERNAME/frontend-projects)
+- [Frontend Projects Repo](https://github.com/devonicCEO/frontend-projects/)
 <!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
 
-### Mobile App Projects
+<!-- ### Mobile App Projects -->
 
-Flutter/Dart bilen taýýarlanan mobil programmalar.
+<!-- Flutter/Dart bilen taýýarlanan mobil programmalar. -->
 
-- [Mobile App Projects Repo](https://github.com/YOUR-USERNAME/mobile-app-projects)
+<!-- - [Mobile App Projects Repo](https://github.com/YOUR-USERNAME/mobile-app-projects) -->
 <!-- - [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme) -->
 
-### iOS Apps
+<!-- ### iOS Apps -->
 
-Flutter/Dart bilen taýýarlanan iOS programmalar.
+<!-- Flutter/Dart bilen taýýarlanan iOS programmalar. -->
 
-- [iOS Apps Repo](https://github.com/YOUR-USERNAME/ios-apps)
+<!-- - [iOS Apps Repo](https://github.com/YOUR-USERNAME/ios-apps) -->
 <!-- - [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme) -->
 
-### Beýleki repolar
+<!-- ### Beýleki repolar -->
 
-- [Design Systems Repo](https://github.com/YOUR-USERNAME/design-systems)
+<!-- - [Design Systems Repo](https://github.com/YOUR-USERNAME/design-systems) -->
 <!-- - [Experiment Lab Repo](https://github.com/YOUR-USERNAME/experiment-lab) -->
-
