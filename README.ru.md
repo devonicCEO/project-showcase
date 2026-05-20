@@ -1,3 +1,4 @@
+<img src="assets/Project Showcase.png">
 # Project Showcase
 
 Это русская версия. Используйте её для перехода к основным репозиториям.

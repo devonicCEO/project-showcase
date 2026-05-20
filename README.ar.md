@@ -1,3 +1,4 @@
+<img src="assets/Project Showcase.png">
 # Project Showcase
 
 هذه النسخة العربية. استخدمها للانتقال إلى المستودعات الأساسية.

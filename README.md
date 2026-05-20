@@ -1,3 +1,4 @@
+<img src="assets/Project Showcase.png">
 # Project Showcase
 
 Bu dosya ana dil seçicidir. Detaylı içerik her dil için ayrı README dosyasında tutulur.

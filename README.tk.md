@@ -1,3 +1,4 @@
+<img src="assets/Project Showcase.png">
 # Project Showcase
 
 Bu sahypa türkmençe görnüşidir. Esasy repository-lere ugrukdyrmak üçin ulanylýar.

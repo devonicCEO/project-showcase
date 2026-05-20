@@ -1,3 +1,4 @@
+<img src="assets/Project Showcase.png">
 # Project Showcase
 
 This is the English version. Use it to navigate to the main repositories.

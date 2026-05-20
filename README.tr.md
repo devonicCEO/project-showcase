@@ -1,3 +1,4 @@
+<img src="assets/Project Showcase.png">
 # Project Showcase
 
 Bu sayfa Türkçe sürümdür. Ana repolara yönlendirme için kullanılır.
