@@ -1,5 +1,4 @@
 <img src="assets/Project Showcase.png" align="center" width=100%>
-# Project Showcase
 
 这是中文版本。用于跳转到主要仓库。
 

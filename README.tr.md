@@ -1,5 +1,4 @@
 <img src="assets/Project Showcase.png" align="center" width=100%>
-# Project Showcase
 
 Bu sayfa Türkçe sürümdür. Ana repolara yönlendirme için kullanılır.
 

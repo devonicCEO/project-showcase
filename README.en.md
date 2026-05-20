@@ -1,5 +1,4 @@
 <img src="assets/Project Showcase.png" align="center" width=100%>
-# Project Showcase
 
 This is the English version. Use it to navigate to the main repositories.
 

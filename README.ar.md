@@ -1,5 +1,4 @@
 <img src="assets/Project Showcase.png" align="center" width=100%>
-# Project Showcase
 
 هذه النسخة العربية. استخدمها للانتقال إلى المستودعات الأساسية.
 
