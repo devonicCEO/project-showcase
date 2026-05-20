@@ -1,4 +1,4 @@
-<img src="assets/Project Showcase.png">
+<img src="assets/Project Showcase.png" align="center" width=100%>
 # Project Showcase
 
 Bu dosya ana dil seçicidir. Detaylı içerik her dil için ayrı README dosyasında tutulur.
