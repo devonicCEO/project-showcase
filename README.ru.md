@@ -11,13 +11,13 @@
 	<img src="assets/frontend projects cards (1).png" width=40% align="top">
 	<p>-----------------------------------------------------------------</p>
 	<br>
-<!-- 
-<a href="#mobile-app-projects">
-    	<img src="assets/btns/Mobile App Projects.png" width=50% align="top">
+
+<a href="https://github.com/devonicCEO/cyber-security-tools">
+    	<img src="assets/btns/Cyber-Security.png" width=50% align="top">
     </a>
-    <img src="assets/Mobile Apps Projects cards.png" width=40% align="top">
+    <img src="assets/cyber-security-card.png" width=40% align="top">
     <p>-----------------------------------------------------------------</p>
-    <br> -->
+    <br>
 <!-- 
 <a href="#ios-apps">
     	<img src="assets/btns/Frontend Procects.png" width=50% align="top">
@@ -35,12 +35,12 @@
 - [Frontend Projects Repo](https://github.com/YOUR-USERNAME/frontend-projects)
 <!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
 
-<!-- ### Mobile App Projects -->
+### Cyber Security Tools Projects
 
-<!-- Мобильные приложения, созданные на Flutter/Dart. -->
+Инструменты кибербезопасности, написанные на Python.
 
-<!-- - [Mobile App Projects Repo](https://github.com/YOUR-USERNAME/mobile-app-projects) -->
-<!-- - [Repo README](https://github.com/YOUR-USERNAME/mobile-app-projects#readme) -->
+- [Cyber Security Tools Projects Repo](https://github.com/devonicCEO/cyber-security-tools)
+- [Repo README](https://github.com/devonicCEO/cyber-security-tools#readme)
 
 <!-- ### iOS Apps -->
 
