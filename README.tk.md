@@ -43,12 +43,12 @@ Flutter/Dart ile yapılmış mobil uygulamalar.
 - [Cyber Security Tools Projects Repo](https://github.com/devonicCEO/cyber-security-tools)
 - [Repo README](https://github.com/devonicCEO/cyber-security-tools#readme)
 
-<!-- ### iOS Apps -->
+### Python Projects
 
-<!-- Flutter/Dart bilen taýýarlanan iOS programmalar. -->
+Python ile yazılmış projeleri burada bulabilirsiniz.
 
-<!-- - [iOS Apps Repo](https://github.com/YOUR-USERNAME/ios-apps) -->
-<!-- - [Repo README](https://github.com/YOUR-USERNAME/ios-apps#readme) -->
+- [iOS Apps Repo](https://github.com/devonicCEO/Python-Projects)
+- [Repo README](https://github.com/devonicCEO/Python-Projects#readme)
 
 <!-- ### Beýleki repolar -->
 
