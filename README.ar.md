@@ -33,7 +33,7 @@
 واجهات أمامية، صفحات هبوط، وأعمال UI.
 
 - [Frontend Projects Repo](https://github.com/devonicCEO/frontend-projects/)
-<!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
+- [Repo README](https://github.com/devonicCEO/frontend-projects#readme)
 
 ### Cyber Security Tools Projects
 

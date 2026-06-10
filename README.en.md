@@ -33,7 +33,8 @@ This is the English version. Use it to navigate to the main repositories.
 Frontend interfaces, landing pages, and UI-focused work.
 
 - [Frontend Projects Repo](https://github.com/devonicCEO/frontend-projects/)
-<!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
+- [Repo README](https://github.com/devonicCEO/frontend-projects#readme)
+
 
 ### Cyber Security Tools Projects
 

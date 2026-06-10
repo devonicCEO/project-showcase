@@ -32,8 +32,8 @@
 前端界面、落地页和 UI 项目。
 
 - [Frontend Projects Repo](https://github.com/devonicCEO/frontend-projects)
-  <!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
-  <!--
+- [Repo README](https://github.com/devonicCEO/frontend-projects#readme)
+
 
 ### Cyber Security Tools Projects
 

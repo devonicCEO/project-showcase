@@ -33,7 +33,8 @@ Bu sahypa türkmençe görnüşidir. Esasy repository-lere ugrukdyrmak üçin ul
 Python-da ýazylan kiberhowpsuzlyk gurallary.
 
 - [Frontend Projects Repo](https://github.com/devonicCEO/frontend-projects/)
-<!-- - [Repo README](https://github.com/YOUR-USERNAME/frontend-projects#readme) -->
+- [Repo README](https://github.com/devonicCEO/frontend-projects#readme)
+
 
 ### Cyber Security Tools Projects
 
